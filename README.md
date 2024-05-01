@@ -21,11 +21,11 @@ My week-8 quiz
 - How this coding technique might help achieve or or contribute to the desired effect?
     - My goal in the final Major Project is to take a piece of art and render it in a different style after each page refresh, which are largely the same, but with slightly different details, such as colours, order of arrangement etc. The example code makes use of the drawing functions and random number generator provided by the **p5.js** library to create **abstract patterns** in an interesting way. Through randomness and variability, the pattern generated varies each time the code is run, demonstrating the beauty of abstract art.
   
-    ![Code](Code Screenshot 1.jpg)
-    ![Code](Code Screenshot 2.jpg)
-    ![Code](Code Screenshot 3.jpg)
-    ![Code](Code Screenshot 4.jpg)
-    ![Code](Code Screenshot 5.jpg)
+    ![Code](assets/Code%20Screenshot%201.jpg)
+    ![Code](assets/Code%20Screenshot%202.jpg.jpg)
+    ![Code](assets/Code%20Screenshot%203.jpg.jpg)
+    ![Code](assets/Code%20Screenshot%204.jpg.jpg)
+    ![Code](assets/Code%20Screenshot%205.jpg.jpg)
 ```
     This is a code block!
   
