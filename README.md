@@ -10,10 +10,6 @@ My week-8 quiz
     ![Examples](assets/Example%201.jpg) 
     ![Examples](assets/Example%202.jpg)
     ![Examples](assets/Example%203.jpg)
-```
-    This is a code block!
-
-```
 
 
 
@@ -26,7 +22,5 @@ My week-8 quiz
     ![Code](assets/Code%20Screenshot%203.jpg)
     ![Code](assets/Code%20Screenshot%204.jpg)
     ![Code](assets/Code%20Screenshot%205.jpg)
-```
-    This is a code block!
-  
-```
+
+The Code Link: [Script Link](https://openprocessing.org/sketch/2165806)
