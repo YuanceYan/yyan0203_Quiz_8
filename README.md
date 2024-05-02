@@ -24,3 +24,4 @@ My week-8 quiz
     ![Code](assets/Code%20Screenshot%205.jpg)
 
 The Code Link: [Script Link](https://openprocessing.org/sketch/2165806)
+*you need to download the script by click the share icon on the top right*
